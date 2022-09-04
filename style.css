@@ -1,18 +1,14 @@
 .coustom-color{
   background-color:#FEEAE8;  
 }
-.coustom-resize{
-    padding-left: 22px;
-    padding-right: 22px;
-}
 .categories img{
 width: 100px;
 }
-.pandabtn{
+.panda_btn{
   color: white;
   font-size: larger;
   border-radius: 8px;
   padding: 9px 25px;
   border: none;
-  background-image: linear-gradient(to bottom, #ff589b 0%,#f597bd 100%);
+  background-image: linear-gradient(to bottom, #e11f6c 0%,#fa6ba4 100%);
 }
