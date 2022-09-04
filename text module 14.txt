@@ -1,0 +1,5 @@
+ প্রথমেই যে সাইট বানাবে সেটার ওভারঅল ডিজাইন এ কি কি জিনিস আছে সেটার একটা ওভারভিউ। তারপর github repository সেটআপ করে container, navbar, navbar item, links বানানো হবে। এরপর carousel আসবে সেখানে ইমেজ সেট করে কিভাবে carousel এর মধ্যে row এবং column দিয়ে আলাদা করা হয় সেটা দেখবে। তারপরে আসবে বিভিন্ন প্রোডাক্টের ক্যাটাগরি। card-group এবং card এর box shadow প্লাস card footer দিয়ে কিভাবে এলাইন করা হয়। এরপর horizontal and vertical center আরো কিছু জিনিস দেখিয়ে মডিউলটা শেষ হবে। 
+14-8 Have fun deploying to Netlify via drag and drop
+update site > Site overview > sites > click deploy > production deploys >need to update site drag and drop
+
+*frepic.com
